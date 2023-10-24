@@ -1,7 +1,1 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Hi and welcome. This is just a place for me to post my thoughts, which may end up not fitting in a tweet and covering a pretty random range of topics - a true 90's style web log. No product placements, paid promotions, cross-channel ads, or other such tech bro capitalist shenanigans. In this day & age where everyone is building their own personal brand, pumping their polished dog shit onto LinkedIn, Instagram, what used to be called Twitter, or even GitHub, I hope this will be a somewhat refreshing take on what blogging used to be - just some random person's thoughts leaked unfiltered into the collective sewerage system that is the Internet. Let's begin.
